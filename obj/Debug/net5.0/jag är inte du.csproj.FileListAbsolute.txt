@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\jag är inte du\bin\Debug\net5.0\jag är inte du.exe
+C:\Users\Admin\Desktop\jag är inte du\bin\Debug\net5.0\jag är inte du.deps.json
+C:\Users\Admin\Desktop\jag är inte du\bin\Debug\net5.0\jag är inte du.runtimeconfig.json
+C:\Users\Admin\Desktop\jag är inte du\bin\Debug\net5.0\jag är inte du.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\jag är inte du\bin\Debug\net5.0\jag är inte du.dll
+C:\Users\Admin\Desktop\jag är inte du\bin\Debug\net5.0\ref\jag är inte du.dll
+C:\Users\Admin\Desktop\jag är inte du\bin\Debug\net5.0\jag är inte du.pdb
+C:\Users\Admin\Desktop\jag är inte du\obj\Debug\net5.0\jag är inte du.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\jag är inte du\obj\Debug\net5.0\jag är inte du.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\jag är inte du\obj\Debug\net5.0\jag är inte du.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\jag är inte du\obj\Debug\net5.0\jag är inte du.AssemblyInfo.cs
+C:\Users\Admin\Desktop\jag är inte du\obj\Debug\net5.0\jag är inte du.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\jag är inte du\obj\Debug\net5.0\jag är inte du.dll
+C:\Users\Admin\Desktop\jag är inte du\obj\Debug\net5.0\ref\jag är inte du.dll
+C:\Users\Admin\Desktop\jag är inte du\obj\Debug\net5.0\jag är inte du.pdb
+C:\Users\Admin\Desktop\jag är inte du\obj\Debug\net5.0\jag är inte du.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "jag är inte du/1.0.0": {
+        "runtime": {
+          "jag är inte du.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jag är inte du/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
